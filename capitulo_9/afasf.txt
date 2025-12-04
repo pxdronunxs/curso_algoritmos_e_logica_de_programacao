@@ -1,0 +1,40 @@
+operadores basicos de matematica
+conceitos matematicos
+variaveis e entrada de dados
+variaveis tipo logico
+operadores relacionais
+operadores logicos
+expressoes logicas
+operacoes com strings
+entrada de dados
+condicoes
+estruturas aninhadas
+inversao de condicoes
+repeticoes/contadores/acumuladores
+listas
+tamanho de listas
+adicao de elementos
+remocao de elementos
+pesquisa
+usando for
+range
+enumerate
+operacoes com listas
+aplicacoes
+listas com strings
+listas dentro de listas
+ordenacao
+dicionarios
+dicionarios com listas
+dicionarios com valor padrao
+tuplas
+conjuntos(set)
+uniao
+interseccao
+diferenca
+diferenca simetrica
+outras operacoes
+quando usar conjuntos
+qual estrutura de dados usar?
+
+https://www.youtube.com/watch?v=0zYuLLIzPIQ = melhor video sobre listas, tuplas, dicionarios e sets

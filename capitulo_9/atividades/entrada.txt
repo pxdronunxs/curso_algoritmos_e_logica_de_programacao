@@ -1,0 +1,6 @@
+;esta linha nao deve ser impressa.
+>esta linha deve ser impressa alinhada à direita
+*esta linha deve ser centralizada
+=esta linha é pra imprimir 40 * o =
+uma linha normal
+outra linha normal

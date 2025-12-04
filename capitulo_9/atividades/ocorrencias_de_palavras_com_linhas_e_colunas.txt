@@ -1,0 +1,2899 @@
+é:
+    linha 1, coluna 1
+    linha 1, coluna 71
+    linha 4, coluna 23
+    linha 7, coluna 43
+    linha 16, coluna 65
+    linha 21, coluna 69
+    linha 26, coluna 6
+    linha 30, coluna 53
+    linha 31, coluna 5
+    linha 35, coluna 1
+    linha 38, coluna 67
+    linha 43, coluna 17
+    linha 48, coluna 61
+    linha 64, coluna 37
+    linha 67, coluna 35
+    linha 69, coluna 11
+    linha 71, coluna 28
+    linha 73, coluna 63
+    linha 80, coluna 56
+    linha 82, coluna 1
+    linha 85, coluna 69
+    linha 87, coluna 35
+    linha 88, coluna 62
+    linha 90, coluna 45
+    linha 91, coluna 25
+    linha 95, coluna 35
+    linha 95, coluna 57
+    linha 99, coluna 6
+    linha 103, coluna 70
+    linha 105, coluna 38
+    linha 107, coluna 13
+    linha 107, coluna 63
+    linha 109, coluna 57
+    linha 111, coluna 59
+    linha 112, coluna 60
+    linha 113, coluna 46
+    linha 117, coluna 66
+    linha 119, coluna 52
+    linha 122, coluna 71
+    linha 127, coluna 19
+    linha 128, coluna 20
+    linha 128, coluna 61
+    linha 130, coluna 39
+    linha 131, coluna 26
+
+importante:
+    linha 1, coluna 3
+    linha 104, coluna 17
+    linha 113, coluna 1
+
+entender:
+    linha 1, coluna 14
+    linha 98, coluna 51
+    linha 100, coluna 15
+
+que:
+    linha 1, coluna 23
+    linha 3, coluna 19
+    linha 4, coluna 59
+    linha 9, coluna 49
+    linha 11, coluna 61
+    linha 19, coluna 51
+    linha 22, coluna 19
+    linha 22, coluna 71
+    linha 23, coluna 16
+    linha 24, coluna 48
+    linha 27, coluna 30
+    linha 28, coluna 11
+    linha 38, coluna 46
+    linha 44, coluna 6
+    linha 44, coluna 65
+    linha 45, coluna 42
+    linha 47, coluna 29
+    linha 47, coluna 56
+    linha 51, coluna 23
+    linha 60, coluna 51
+    linha 65, coluna 16
+    linha 71, coluna 49
+    linha 72, coluna 40
+    linha 72, coluna 62
+    linha 77, coluna 53
+    linha 78, coluna 70
+    linha 81, coluna 24
+    linha 82, coluna 5
+    linha 82, coluna 49
+    linha 87, coluna 16
+    linha 88, coluna 72
+    linha 90, coluna 37
+    linha 103, coluna 66
+    linha 105, coluna 13
+    linha 105, coluna 52
+    linha 107, coluna 17
+    linha 109, coluna 45
+    linha 110, coluna 24
+    linha 111, coluna 17
+    linha 112, coluna 40
+    linha 113, coluna 15
+    linha 113, coluna 29
+    linha 113, coluna 65
+    linha 114, coluna 30
+    linha 114, coluna 54
+    linha 115, coluna 31
+    linha 115, coluna 71
+    linha 116, coluna 24
+    linha 116, coluna 56
+    linha 117, coluna 9
+    linha 119, coluna 1
+    linha 119, coluna 70
+    linha 120, coluna 14
+    linha 121, coluna 40
+    linha 127, coluna 23
+    linha 128, coluna 68
+    linha 129, coluna 28
+    linha 129, coluna 57
+    linha 130, coluna 11
+    linha 130, coluna 59
+    linha 132, coluna 1
+
+um:
+    linha 1, coluna 27
+    linha 5, coluna 43
+    linha 5, coluna 57
+    linha 7, coluna 45
+    linha 13, coluna 16
+    linha 17, coluna 39
+    linha 17, coluna 66
+    linha 33, coluna 66
+    linha 35, coluna 3
+    linha 36, coluna 56
+    linha 38, coluna 69
+    linha 49, coluna 43
+    linha 60, coluna 20
+    linha 68, coluna 11
+    linha 73, coluna 65
+    linha 77, coluna 16
+    linha 78, coluna 62
+    linha 79, coluna 16
+    linha 94, coluna 63
+    linha 104, coluna 41
+    linha 104, coluna 65
+    linha 121, coluna 67
+    linha 122, coluna 9
+
+texto:
+    linha 1, coluna 30
+    linha 4, coluna 53
+    linha 5, coluna 60
+
+de:
+    linha 1, coluna 36
+    linha 2, coluna 41
+    linha 3, coluna 70
+    linha 4, coluna 50
+    linha 5, coluna 54
+    linha 13, coluna 34
+    linha 13, coluna 72
+    linha 14, coluna 19
+    linha 14, coluna 65
+    linha 15, coluna 28
+    linha 21, coluna 27
+    linha 27, coluna 65
+    linha 28, coluna 27
+    linha 35, coluna 25
+    linha 36, coluna 53
+    linha 39, coluna 8
+    linha 42, coluna 9
+    linha 43, coluna 29
+    linha 43, coluna 70
+    linha 44, coluna 51
+    linha 45, coluna 34
+    linha 46, coluna 37
+    linha 47, coluna 47
+    linha 52, coluna 22
+    linha 52, coluna 35
+    linha 52, coluna 46
+    linha 54, coluna 56
+    linha 56, coluna 1
+    linha 56, coluna 47
+    linha 58, coluna 23
+    linha 58, coluna 69
+    linha 60, coluna 30
+    linha 66, coluna 37
+    linha 68, coluna 19
+    linha 75, coluna 12
+    linha 76, coluna 54
+    linha 80, coluna 68
+    linha 81, coluna 49
+    linha 82, coluna 61
+    linha 84, coluna 26
+    linha 84, coluna 39
+    linha 84, coluna 55
+    linha 87, coluna 63
+    linha 92, coluna 35
+    linha 98, coluna 17
+    linha 101, coluna 42
+    linha 101, coluna 53
+    linha 101, coluna 67
+    linha 103, coluna 51
+    linha 108, coluna 37
+    linha 119, coluna 67
+    linha 120, coluna 36
+    linha 122, coluna 16
+    linha 123, coluna 62
+    linha 123, coluna 71
+    linha 127, coluna 9
+    linha 127, coluna 62
+    linha 131, coluna 38
+    linha 131, coluna 57
+
+mil:
+    linha 1, coluna 39
+
+palavras:
+    linha 1, coluna 43
+    linha 4, coluna 1
+    linha 6, coluna 23
+    linha 78, coluna 15
+
+sem:
+    linha 1, coluna 52
+    linha 6, coluna 44
+    linha 9, coluna 18
+    linha 68, coluna 44
+
+formatação:
+    linha 1, coluna 56
+    linha 6, coluna 48
+
+não:
+    linha 1, coluna 67
+    linha 2, coluna 21
+    linha 67, coluna 31
+    linha 77, coluna 57
+    linha 84, coluna 72
+    linha 92, coluna 48
+    linha 99, coluna 50
+    linha 106, coluna 40
+    linha 110, coluna 28
+    linha 115, coluna 53
+    linha 128, coluna 57
+
+uma:
+    linha 1, coluna 73
+    linha 3, coluna 51
+    linha 4, coluna 25
+    linha 9, coluna 36
+    linha 14, coluna 9
+    linha 15, coluna 31
+    linha 16, coluna 67
+    linha 17, coluna 54
+    linha 18, coluna 55
+    linha 20, coluna 24
+    linha 21, coluna 71
+    linha 26, coluna 14
+    linha 26, coluna 34
+    linha 38, coluna 12
+    linha 43, coluna 19
+    linha 43, coluna 73
+    linha 44, coluna 54
+    linha 45, coluna 4
+    linha 46, coluna 40
+    linha 49, coluna 1
+    linha 64, coluna 39
+    linha 71, coluna 30
+    linha 77, coluna 42
+    linha 78, coluna 25
+    linha 80, coluna 27
+    linha 80, coluna 58
+    linha 85, coluna 13
+    linha 87, coluna 37
+    linha 92, coluna 22
+    linha 94, coluna 35
+    linha 97, coluna 11
+    linha 98, coluna 5
+    linha 105, coluna 40
+    linha 106, coluna 47
+    linha 107, coluna 65
+    linha 118, coluna 23
+
+tarefa:
+    linha 2, coluna 1
+
+simples:
+    linha 2, coluna 8
+    linha 13, coluna 19
+
+ele:
+    linha 2, coluna 17
+    linha 26, coluna 46
+
+tem:
+    linha 2, coluna 25
+    linha 20, coluna 20
+    linha 111, coluna 32
+
+a:
+    linha 2, coluna 29
+    linha 2, coluna 56
+    linha 3, coluna 29
+    linha 5, coluna 28
+    linha 7, coluna 33
+    linha 14, coluna 7
+    linha 14, coluna 57
+    linha 15, coluna 66
+    linha 16, coluna 48
+    linha 18, coluna 29
+    linha 19, coluna 21
+    linha 20, coluna 12
+    linha 20, coluna 38
+    linha 22, coluna 48
+    linha 28, coluna 51
+    linha 31, coluna 23
+    linha 31, coluna 48
+    linha 33, coluna 64
+    linha 34, coluna 10
+    linha 36, coluna 19
+    linha 36, coluna 42
+    linha 39, coluna 35
+    linha 40, coluna 48
+    linha 40, coluna 72
+    linha 42, coluna 68
+    linha 43, coluna 56
+    linha 44, coluna 36
+    linha 45, coluna 58
+    linha 47, coluna 15
+    linha 47, coluna 23
+    linha 48, coluna 29
+    linha 48, coluna 36
+    linha 48, coluna 50
+    linha 50, coluna 44
+    linha 50, coluna 64
+    linha 52, coluna 75
+    linha 53, coluna 74
+    linha 59, coluna 14
+    linha 59, coluna 41
+    linha 64, coluna 13
+    linha 64, coluna 62
+    linha 65, coluna 49
+    linha 65, coluna 61
+    linha 65, coluna 72
+    linha 68, coluna 29
+    linha 69, coluna 30
+    linha 69, coluna 61
+    linha 70, coluna 32
+    linha 70, coluna 44
+    linha 70, coluna 65
+    linha 73, coluna 30
+    linha 74, coluna 17
+    linha 74, coluna 28
+    linha 74, coluna 38
+    linha 74, coluna 52
+    linha 80, coluna 16
+    linha 80, coluna 49
+    linha 83, coluna 60
+    linha 85, coluna 49
+    linha 86, coluna 12
+    linha 86, coluna 27
+    linha 86, coluna 46
+    linha 86, coluna 56
+    linha 86, coluna 67
+    linha 87, coluna 20
+    linha 88, coluna 37
+    linha 88, coluna 64
+    linha 89, coluna 75
+    linha 90, coluna 22
+    linha 90, coluna 61
+    linha 90, coluna 70
+    linha 91, coluna 27
+    linha 91, coluna 40
+    linha 92, coluna 62
+    linha 93, coluna 18
+    linha 93, coluna 30
+    linha 93, coluna 46
+    linha 94, coluna 12
+    linha 94, coluna 23
+    linha 95, coluna 46
+    linha 97, coluna 52
+    linha 98, coluna 49
+    linha 99, coluna 27
+    linha 100, coluna 24
+    linha 102, coluna 31
+    linha 103, coluna 39
+    linha 104, coluna 29
+    linha 106, coluna 71
+    linha 107, coluna 43
+    linha 107, coluna 56
+    linha 110, coluna 47
+    linha 111, coluna 69
+    linha 112, coluna 21
+    linha 117, coluna 42
+    linha 118, coluna 11
+    linha 119, coluna 33
+    linha 119, coluna 54
+    linha 120, coluna 51
+    linha 120, coluna 62
+    linha 120, coluna 75
+    linha 121, coluna 11
+    linha 122, coluna 29
+    linha 122, coluna 51
+    linha 122, coluna 73
+    linha 123, coluna 25
+    linha 123, coluna 49
+    linha 127, coluna 49
+    linha 128, coluna 22
+    linha 130, coluna 29
+    linha 132, coluna 23
+    linha 132, coluna 56
+    linha 133, coluna 16
+
+estrutura:
+    linha 2, coluna 31
+
+parágrafos:
+    linha 2, coluna 44
+
+pontuação:
+    linha 2, coluna 58
+
+e:
+    linha 2, coluna 68
+    linha 4, coluna 35
+    linha 5, coluna 15
+    linha 7, coluna 64
+    linha 10, coluna 45
+    linha 11, coluna 17
+    linha 12, coluna 56
+    linha 14, coluna 73
+    linha 16, coluna 26
+    linha 17, coluna 64
+    linha 19, coluna 39
+    linha 23, coluna 5
+    linha 25, coluna 13
+    linha 32, coluna 23
+    linha 33, coluna 14
+    linha 34, coluna 47
+    linha 35, coluna 58
+    linha 41, coluna 22
+    linha 42, coluna 33
+    linha 42, coluna 56
+    linha 43, coluna 43
+    linha 47, coluna 54
+    linha 49, coluna 69
+    linha 50, coluna 22
+    linha 52, coluna 44
+    linha 53, coluna 38
+    linha 54, coluna 18
+    linha 54, coluna 72
+    linha 55, coluna 62
+    linha 56, coluna 58
+    linha 59, coluna 39
+    linha 64, coluna 60
+    linha 70, coluna 30
+    linha 72, coluna 58
+    linha 75, coluna 61
+    linha 76, coluna 72
+    linha 79, coluna 68
+    linha 81, coluna 68
+    linha 82, coluna 36
+    linha 83, coluna 46
+    linha 84, coluna 53
+    linha 85, coluna 34
+    linha 86, coluna 65
+    linha 89, coluna 32
+    linha 90, coluna 59
+    linha 91, coluna 72
+    linha 93, coluna 44
+    linha 95, coluna 44
+    linha 96, coluna 43
+    linha 97, coluna 31
+    linha 98, coluna 71
+    linha 100, coluna 37
+    linha 101, coluna 65
+    linha 107, coluna 30
+    linha 108, coluna 67
+    linha 110, coluna 16
+    linha 112, coluna 11
+    linha 114, coluna 42
+    linha 116, coluna 68
+    linha 118, coluna 61
+    linha 119, coluna 16
+    linha 121, coluna 9
+    linha 123, coluna 23
+    linha 127, coluna 7
+    linha 128, coluna 10
+    linha 130, coluna 48
+    linha 133, coluna 14
+
+os:
+    linha 2, coluna 70
+    linha 8, coluna 6
+    linha 8, coluna 43
+    linha 20, coluna 50
+    linha 57, coluna 49
+    linha 102, coluna 14
+
+elementos:
+    linha 3, coluna 1
+
+visuais:
+    linha 3, coluna 11
+
+guiam:
+    linha 3, coluna 23
+
+leitura:
+    linha 3, coluna 31
+
+tornando-o:
+    linha 3, coluna 40
+
+massa:
+    linha 3, coluna 55
+
+contínua:
+    linha 3, coluna 61
+
+o:
+    linha 4, coluna 11
+    linha 11, coluna 59
+    linha 13, coluna 6
+    linha 14, coluna 36
+    linha 15, coluna 20
+    linha 16, coluna 9
+    linha 16, coluna 28
+    linha 21, coluna 55
+    linha 22, coluna 69
+    linha 24, coluna 46
+    linha 25, coluna 49
+    linha 27, coluna 28
+    linha 29, coluna 58
+    linha 30, coluna 24
+    linha 35, coluna 73
+    linha 39, coluna 58
+    linha 40, coluna 19
+    linha 41, coluna 24
+    linha 46, coluna 26
+    linha 51, coluna 21
+    linha 55, coluna 9
+    linha 58, coluna 51
+    linha 65, coluna 28
+    linha 67, coluna 10
+    linha 67, coluna 50
+    linha 69, coluna 73
+    linha 71, coluna 19
+    linha 72, coluna 38
+    linha 72, coluna 60
+    linha 76, coluna 37
+    linha 82, coluna 3
+    linha 88, coluna 13
+    linha 90, coluna 35
+    linha 91, coluna 74
+    linha 95, coluna 20
+    linha 95, coluna 59
+    linha 99, coluna 8
+    linha 100, coluna 39
+    linha 100, coluna 63
+    linha 103, coluna 64
+    linha 107, coluna 15
+    linha 109, coluna 74
+    linha 111, coluna 36
+    linha 112, coluna 44
+    linha 113, coluna 19
+    linha 115, coluna 29
+    linha 116, coluna 17
+    linha 116, coluna 70
+    linha 118, coluna 53
+    linha 119, coluna 5
+    linha 120, coluna 12
+    linha 127, coluna 21
+    linha 128, coluna 48
+    linha 130, coluna 50
+    linha 131, coluna 28
+    linha 133, coluna 51
+
+resultado:
+    linha 4, coluna 13
+
+longa:
+    linha 4, coluna 29
+
+densa:
+    linha 4, coluna 37
+
+parede:
+    linha 4, coluna 43
+
+exige:
+    linha 4, coluna 63
+    linha 102, coluna 63
+    linha 103, coluna 33
+
+esforço:
+    linha 4, coluna 69
+
+para:
+    linha 5, coluna 1
+    linha 7, coluna 9
+    linha 13, coluna 1
+    linha 17, coluna 49
+    linha 27, coluna 18
+    linha 28, coluna 38
+    linha 29, coluna 71
+    linha 30, coluna 35
+    linha 32, coluna 8
+    linha 59, coluna 51
+    linha 65, coluna 36
+    linha 69, coluna 44
+    linha 79, coluna 46
+    linha 95, coluna 69
+    linha 96, coluna 67
+    linha 109, coluna 69
+    linha 131, coluna 1
+
+ser:
+    linha 5, coluna 6
+    linha 18, coluna 51
+    linha 23, coluna 25
+    linha 51, coluna 37
+    linha 73, coluna 16
+    linha 98, coluna 1
+
+lida:
+    linha 5, coluna 10
+
+absorvida:
+    linha 5, coluna 17
+
+seguir:
+    linha 5, coluna 30
+    linha 26, coluna 62
+
+está:
+    linha 5, coluna 38
+    linha 58, coluna 31
+    linha 73, coluna 7
+    linha 99, coluna 54
+    linha 134, coluna 1
+
+exemplo:
+    linha 5, coluna 46
+
+com:
+    linha 5, coluna 66
+    linha 6, coluna 67
+    linha 8, coluna 39
+    linha 14, coluna 32
+    linha 22, coluna 32
+    linha 34, coluna 22
+    linha 39, coluna 31
+    linha 40, coluna 15
+    linha 42, coluna 18
+    linha 48, coluna 46
+    linha 49, coluna 15
+    linha 57, coluna 28
+    linha 71, coluna 70
+    linha 78, coluna 11
+    linha 102, coluna 10
+    linha 108, coluna 28
+    linha 118, coluna 49
+    linha 118, coluna 63
+    linha 129, coluna 40
+    linha 129, coluna 70
+
+aproximadamente:
+    linha 6, coluna 1
+
+1.000:
+    linha 6, coluna 17
+
+totalmente:
+    linha 6, coluna 33
+
+apenas:
+    linha 6, coluna 60
+    linha 66, coluna 62
+    linha 99, coluna 59
+
+espaços:
+    linha 7, coluna 1
+
+separar:
+    linha 7, coluna 14
+
+as:
+    linha 7, coluna 22
+    linha 10, coluna 12
+    linha 23, coluna 30
+    linha 56, coluna 71
+    linha 73, coluna 47
+    linha 83, coluna 28
+    linha 89, coluna 6
+    linha 96, coluna 52
+    linha 113, coluna 54
+    linha 114, coluna 14
+    linha 114, coluna 44
+    linha 115, coluna 61
+    linha 116, coluna 44
+    linha 121, coluna 25
+    linha 131, coluna 6
+
+frases:
+    linha 7, coluna 25
+
+memória:
+    linha 7, coluna 35
+    linha 18, coluna 31
+
+labirinto:
+    linha 7, coluna 48
+
+vasto:
+    linha 7, coluna 58
+    linha 37, coluna 47
+
+complexo:
+    linha 7, coluna 66
+
+onde:
+    linha 8, coluna 1
+
+ecos:
+    linha 8, coluna 9
+
+do:
+    linha 8, coluna 14
+    linha 8, coluna 56
+    linha 11, coluna 45
+    linha 16, coluna 17
+    linha 17, coluna 9
+    linha 33, coluna 28
+    linha 36, coluna 8
+    linha 40, coluna 62
+    linha 41, coluna 12
+    linha 41, coluna 40
+    linha 48, coluna 22
+    linha 57, coluna 59
+    linha 89, coluna 16
+    linha 89, coluna 34
+    linha 102, coluna 46
+    linha 105, coluna 25
+    linha 110, coluna 60
+    linha 113, coluna 12
+    linha 115, coluna 7
+    linha 132, coluna 42
+    linha 133, coluna 1
+    linha 133, coluna 60
+
+passado:
+    linha 8, coluna 17
+    linha 33, coluna 37
+
+se:
+    linha 8, coluna 25
+    linha 14, coluna 44
+    linha 21, coluna 1
+    linha 31, coluna 60
+    linha 53, coluna 64
+    linha 55, coluna 25
+    linha 92, coluna 52
+
+entrelaçam:
+    linha 8, coluna 28
+
+sussurros:
+    linha 8, coluna 46
+
+presente:
+    linha 8, coluna 59
+
+cada:
+    linha 8, coluna 69
+    linha 9, coluna 8
+    linha 17, coluna 29
+    linha 51, coluna 70
+    linha 72, coluna 1
+    linha 72, coluna 21
+    linha 109, coluna 11
+    linha 111, coluna 21
+    linha 122, coluna 19
+    linha 129, coluna 44
+    linha 130, coluna 1
+
+curva:
+    linha 9, coluna 1
+
+beco:
+    linha 9, coluna 13
+
+saída:
+    linha 9, coluna 22
+
+revela:
+    linha 9, coluna 29
+
+história:
+    linha 9, coluna 40
+
+pensávamos:
+    linha 9, coluna 53
+
+ter:
+    linha 9, coluna 64
+    linha 19, coluna 67
+    linha 85, coluna 9
+
+esquecido:
+    linha 10, coluna 1
+
+lembranças:
+    linha 10, coluna 15
+
+por:
+    linha 10, coluna 27
+    linha 25, coluna 65
+    linha 73, coluna 12
+    linha 78, coluna 58
+    linha 80, coluna 23
+    linha 88, coluna 49
+    linha 91, coluna 9
+    linha 104, coluna 37
+    linha 104, coluna 61
+    linha 109, coluna 21
+    linha 117, coluna 50
+    linha 118, coluna 19
+
+vezes:
+    linha 10, coluna 31
+    linha 11, coluna 1
+    linha 29, coluna 8
+    linha 47, coluna 67
+    linha 54, coluna 41
+    linha 85, coluna 43
+
+nítidas:
+    linha 10, coluna 37
+
+claras:
+    linha 10, coluna 47
+
+como:
+    linha 10, coluna 54
+    linha 20, coluna 72
+
+cristal:
+    linha 10, coluna 59
+
+outras:
+    linha 10, coluna 68
+
+nebulosas:
+    linha 11, coluna 7
+
+distorcidas:
+    linha 11, coluna 19
+
+pela:
+    linha 11, coluna 31
+    linha 28, coluna 59
+
+passagem:
+    linha 11, coluna 36
+
+tempo:
+    linha 11, coluna 48
+    linha 17, coluna 12
+    linha 81, coluna 70
+
+são:
+    linha 11, coluna 55
+    linha 24, coluna 1
+    linha 24, coluna 35
+    linha 45, coluna 23
+    linha 74, coluna 65
+    linha 115, coluna 57
+    linha 121, coluna 21
+
+nos:
+    linha 11, coluna 65
+    linha 13, coluna 56
+    linha 15, coluna 50
+    linha 24, coluna 52
+    linha 26, coluna 50
+    linha 27, coluna 34
+    linha 27, coluna 55
+    linha 37, coluna 11
+    linha 38, coluna 35
+    linha 45, coluna 46
+    linha 46, coluna 53
+    linha 51, coluna 57
+    linha 57, coluna 15
+    linha 58, coluna 7
+    linha 76, coluna 16
+    linha 77, coluna 31
+    linha 78, coluna 41
+    linha 79, coluna 30
+    linha 79, coluna 70
+    linha 82, coluna 9
+    linha 82, coluna 38
+    linha 86, coluna 34
+    linha 87, coluna 5
+    linha 89, coluna 62
+    linha 90, coluna 41
+    linha 94, coluna 1
+    linha 96, coluna 17
+    linha 96, coluna 45
+    linha 98, coluna 36
+    linha 107, coluna 21
+    linha 107, coluna 32
+    linha 121, coluna 44
+    linha 127, coluna 27
+
+definem:
+    linha 12, coluna 1
+
+elas:
+    linha 12, coluna 10
+
+moldam:
+    linha 12, coluna 15
+
+nossas:
+    linha 12, coluna 22
+    linha 12, coluna 41
+    linha 12, coluna 58
+    linha 75, coluna 45
+    linha 75, coluna 63
+    linha 82, coluna 64
+    linha 131, coluna 41
+    linha 134, coluna 9
+
+percepções:
+    linha 12, coluna 29
+
+crenças:
+    linha 12, coluna 48
+
+esperanças:
+    linha 12, coluna 65
+
+futuro:
+    linha 13, coluna 8
+    linha 33, coluna 69
+    linha 71, coluna 21
+    linha 91, coluna 65
+    linha 92, coluna 1
+    linha 100, coluna 65
+    linha 128, coluna 50
+    linha 133, coluna 53
+
+cheiro:
+    linha 13, coluna 27
+
+terra:
+    linha 13, coluna 37
+    linha 39, coluna 51
+
+molhada:
+    linha 13, coluna 43
+
+pode:
+    linha 13, coluna 51
+    linha 18, coluna 46
+    linha 23, coluna 20
+    linha 77, coluna 26
+    linha 78, coluna 36
+    linha 79, coluna 25
+
+transportar:
+    linha 13, coluna 60
+    linha 79, coluna 34
+
+volta:
+    linha 14, coluna 1
+
+tarde:
+    linha 14, coluna 13
+
+infância:
+    linha 14, coluna 22
+
+mundo:
+    linha 14, coluna 38
+    linha 55, coluna 11
+    linha 65, coluna 30
+    linha 76, coluna 39
+    linha 88, coluna 15
+    linha 94, coluna 66
+    linha 100, coluna 41
+    linha 102, coluna 49
+    linha 118, coluna 55
+    linha 121, coluna 70
+    linha 133, coluna 69
+
+resumindo:
+    linha 14, coluna 47
+
+poças:
+    linha 14, coluna 59
+
+lama:
+    linha 14, coluna 68
+
+risadas:
+    linha 15, coluna 1
+
+inocentes:
+    linha 15, coluna 9
+
+sabor:
+    linha 15, coluna 22
+
+comida:
+    linha 15, coluna 35
+
+caseira:
+    linha 15, coluna 42
+
+faz:
+    linha 15, coluna 54
+
+reviver:
+    linha 15, coluna 58
+
+cozinha:
+    linha 15, coluna 68
+
+da:
+    linha 16, coluna 1
+    linha 23, coluna 44
+    linha 36, coluna 27
+    linha 39, coluna 48
+    linha 40, coluna 34
+    linha 74, coluna 1
+    linha 83, coluna 69
+    linha 92, coluna 8
+    linha 96, coluna 29
+    linha 100, coluna 72
+    linha 101, coluna 22
+    linha 106, coluna 31
+    linha 133, coluna 35
+
+avó:
+    linha 16, coluna 4
+
+calor:
+    linha 16, coluna 11
+
+fogão:
+    linha 16, coluna 20
+
+abraço:
+    linha 16, coluna 30
+
+acolhedor:
+    linha 16, coluna 37
+
+música:
+    linha 16, coluna 50
+    linha 74, coluna 30
+
+então:
+    linha 16, coluna 58
+
+máquina:
+    linha 17, coluna 1
+
+infalível:
+    linha 17, coluna 18
+
+nota:
+    linha 17, coluna 34
+
+portal:
+    linha 17, coluna 42
+
+época:
+    linha 17, coluna 58
+
+sentimento:
+    linha 18, coluna 1
+
+específicos:
+    linha 18, coluna 12
+
+mas:
+    linha 18, coluna 25
+    linha 24, coluna 31
+    linha 27, coluna 44
+    linha 30, coluna 11
+    linha 31, coluna 1
+    linha 42, coluna 64
+    linha 56, coluna 15
+    linha 57, coluna 71
+    linha 67, coluna 60
+    linha 93, coluna 14
+    linha 97, coluna 48
+    linha 100, coluna 8
+    linha 103, coluna 22
+    linha 106, coluna 67
+    linha 116, coluna 13
+    linha 127, coluna 45
+    linha 129, coluna 19
+
+também:
+    linha 18, coluna 39
+    linha 24, coluna 39
+    linha 27, coluna 48
+    linha 31, coluna 7
+    linha 43, coluna 10
+    linha 56, coluna 19
+    linha 97, coluna 63
+    linha 103, coluna 26
+
+tirana:
+    linha 18, coluna 59
+
+mantendo-nos:
+    linha 19, coluna 1
+
+presos:
+    linha 19, coluna 14
+
+arrependimentos:
+    linha 19, coluna 23
+
+tristezas:
+    linha 19, coluna 41
+    linha 76, coluna 1
+
+já:
+    linha 19, coluna 55
+    linha 119, coluna 74
+
+deveriam:
+    linha 19, coluna 58
+
+sido:
+    linha 19, coluna 71
+
+superados:
+    linha 20, coluna 1
+
+mente:
+    linha 20, coluna 14
+
+tendência:
+    linha 20, coluna 28
+
+revisitar:
+    linha 20, coluna 40
+
+momentos:
+    linha 20, coluna 53
+    linha 27, coluna 68
+
+difíceis:
+    linha 20, coluna 62
+
+ao:
+    linha 21, coluna 4
+    linha 44, coluna 24
+    linha 58, coluna 36
+    linha 70, coluna 18
+    linha 88, coluna 21
+    linha 100, coluna 47
+    linha 114, coluna 69
+
+revivê-los:
+    linha 21, coluna 7
+
+pudesse:
+    linha 21, coluna 18
+
+alguma:
+    linha 21, coluna 30
+
+forma:
+    linha 21, coluna 37
+    linha 66, coluna 40
+    linha 76, coluna 57
+    linha 80, coluna 62
+
+reescrever:
+    linha 21, coluna 44
+
+final:
+    linha 21, coluna 57
+    linha 110, coluna 9
+    linha 112, coluna 54
+    linha 115, coluna 22
+
+essa:
+    linha 21, coluna 64
+
+batalha:
+    linha 22, coluna 1
+
+constante:
+    linha 22, coluna 9
+    linha 35, coluna 15
+    linha 58, coluna 53
+    linha 95, coluna 1
+    linha 128, coluna 30
+
+travamos:
+    linha 22, coluna 23
+
+nós:
+    linha 22, coluna 36
+    linha 47, coluna 50
+    linha 91, coluna 13
+    linha 100, coluna 26
+    linha 105, coluna 62
+    linha 120, coluna 39
+
+mesmos:
+    linha 22, coluna 40
+    linha 91, coluna 17
+    linha 100, coluna 30
+    linha 120, coluna 43
+
+luta:
+    linha 22, coluna 50
+
+entre:
+    linha 22, coluna 55
+    linha 29, coluna 44
+
+aceitar:
+    linha 22, coluna 61
+    linha 111, coluna 61
+
+foi:
+    linha 23, coluna 1
+    linha 66, coluna 19
+
+focar:
+    linha 23, coluna 7
+
+no:
+    linha 23, coluna 13
+    linha 29, coluna 21
+    linha 37, coluna 44
+    linha 48, coluna 11
+    linha 50, coluna 24
+    linha 64, coluna 25
+    linha 68, coluna 72
+    linha 115, coluna 19
+
+cicatrizes:
+    linha 23, coluna 33
+
+alma:
+    linha 23, coluna 47
+    linha 74, coluna 4
+
+invisíveis:
+    linha 23, coluna 53
+
+aos:
+    linha 23, coluna 64
+    linha 82, coluna 25
+
+olhos:
+    linha 23, coluna 68
+    linha 39, coluna 11
+
+forjadas:
+    linha 24, coluna 5
+
+nessas:
+    linha 24, coluna 14
+
+batalhas:
+    linha 24, coluna 21
+
+torna:
+    linha 24, coluna 56
+    linha 31, coluna 63
+    linha 127, coluna 31
+
+mais:
+    linha 24, coluna 62
+    linha 25, coluna 35
+    linha 52, coluna 5
+    linha 97, coluna 20
+    linha 109, coluna 25
+    linha 118, coluna 35
+
+resilientes:
+    linha 25, coluna 1
+
+em:
+    linha 25, coluna 16
+    linha 26, coluna 69
+    linha 33, coluna 53
+    linha 37, coluna 22
+    linha 39, coluna 17
+    linha 44, coluna 16
+    linha 45, coluna 1
+    linha 53, coluna 28
+    linha 57, coluna 40
+    linha 70, coluna 10
+    linha 71, coluna 39
+    linha 73, coluna 38
+    linha 84, coluna 8
+    linha 94, coluna 60
+    linha 94, coluna 72
+    linha 99, coluna 66
+    linha 100, coluna 12
+    linha 106, coluna 14
+    linha 107, coluna 7
+    linha 117, coluna 69
+    linha 122, coluna 43
+    linha 132, coluna 35
+    linha 132, coluna 69
+    linha 133, coluna 28
+    linha 134, coluna 6
+
+última:
+    linha 25, coluna 19
+
+análise:
+    linha 25, coluna 26
+
+humanos:
+    linha 25, coluna 40
+
+esquecimento:
+    linha 25, coluna 51
+
+sua:
+    linha 25, coluna 69
+    linha 31, coluna 50
+    linha 34, coluna 26
+    linha 34, coluna 49
+    linha 84, coluna 11
+    linha 85, coluna 51
+    linha 88, coluna 53
+    linha 122, coluna 53
+
+vez:
+    linha 26, coluna 1
+    linha 52, coluna 1
+    linha 88, coluna 57
+    linha 122, coluna 24
+    linha 132, coluna 38
+    linha 132, coluna 72
+    linha 133, coluna 31
+
+tanto:
+    linha 26, coluna 8
+
+maldição:
+    linha 26, coluna 18
+
+quanto:
+    linha 26, coluna 27
+
+bênção:
+    linha 26, coluna 38
+
+permite:
+    linha 26, coluna 54
+    linha 76, coluna 20
+
+frente:
+    linha 27, coluna 1
+
+deixando:
+    linha 27, coluna 9
+
+trás:
+    linha 27, coluna 23
+
+fere:
+    linha 27, coluna 38
+
+priva:
+    linha 27, coluna 59
+
+preciosos:
+    linha 28, coluna 1
+
+gostaríamos:
+    linha 28, coluna 15
+
+guardar:
+    linha 28, coluna 30
+
+sempre:
+    linha 28, coluna 43
+    linha 33, coluna 46
+    linha 59, coluna 65
+    linha 65, coluna 41
+
+busca:
+    linha 28, coluna 53
+    linha 104, coluna 31
+    linha 107, coluna 1
+    linha 117, coluna 44
+    linha 118, coluna 13
+
+felicidade:
+    linha 28, coluna 64
+
+muitas:
+    linha 29, coluna 1
+    linha 47, coluna 60
+    linha 54, coluna 34
+    linha 85, coluna 36
+
+reside:
+    linha 29, coluna 14
+    linha 47, coluna 33
+    linha 84, coluna 1
+
+delicado:
+    linha 29, coluna 24
+
+equilíbrio:
+    linha 29, coluna 33
+
+lembrar:
+    linha 29, coluna 50
+
+suficiente:
+    linha 29, coluna 60
+
+aprender:
+    linha 30, coluna 1
+    linha 31, coluna 14
+    linha 69, coluna 21
+    linha 94, coluna 14
+    linha 94, coluna 25
+    linha 102, coluna 1
+
+esquecer:
+    linha 30, coluna 15
+
+bastante:
+    linha 30, coluna 26
+
+curar:
+    linha 30, coluna 40
+
+viver:
+    linha 30, coluna 47
+    linha 111, coluna 53
+
+colecionar:
+    linha 30, coluna 55
+
+memórias:
+    linha 30, coluna 66
+    linha 116, coluna 47
+
+desapegar:
+    linha 31, coluna 25
+
+delas:
+    linha 31, coluna 35
+
+quando:
+    linha 31, coluna 41
+
+carga:
+    linha 31, coluna 54
+
+pesada:
+    linha 31, coluna 69
+
+demais:
+    linha 32, coluna 1
+
+carregar:
+    linha 32, coluna 13
+
+assim:
+    linha 32, coluna 25
+
+continuamos:
+    linha 32, coluna 32
+
+nossa:
+    linha 32, coluna 44
+    linha 35, coluna 28
+    linha 38, coluna 50
+    linha 41, coluna 60
+    linha 49, coluna 19
+    linha 60, coluna 63
+    linha 68, coluna 55
+    linha 101, coluna 25
+    linha 123, coluna 1
+    linha 123, coluna 27
+    linha 128, coluna 24
+    linha 130, coluna 41
+
+jornada:
+    linha 32, coluna 50
+    linha 42, coluna 1
+    linha 98, coluna 9
+    linha 105, coluna 44
+    linha 112, coluna 23
+    linha 119, coluna 24
+
+navegando:
+    linha 32, coluna 59
+
+pelas:
+    linha 32, coluna 69
+
+águas:
+    linha 33, coluna 1
+
+turvas:
+    linha 33, coluna 7
+
+cristalinas:
+    linha 33, coluna 16
+
+nosso:
+    linha 33, coluna 31
+    linha 37, coluna 25
+    linha 58, coluna 39
+    linha 68, coluna 31
+    linha 88, coluna 24
+    linha 91, coluna 59
+    linha 99, coluna 10
+    linha 100, coluna 50
+    linha 133, coluna 63
+
+direção:
+    linha 33, coluna 56
+
+incerto:
+    linha 34, coluna 1
+
+natureza:
+    linha 34, coluna 12
+    linha 43, coluna 1
+    linha 48, coluna 52
+
+beleza:
+    linha 34, coluna 30
+    linha 83, coluna 62
+
+imponente:
+    linha 34, coluna 37
+
+brutalidade:
+    linha 34, coluna 53
+
+implacável:
+    linha 34, coluna 65
+    linha 39, coluna 66
+
+lembrete:
+    linha 35, coluna 6
+
+própria:
+    linha 35, coluna 34
+    linha 41, coluna 66
+    linha 49, coluna 25
+
+insignificância:
+    linha 35, coluna 42
+
+fragilidade:
+    linha 35, coluna 60
+
+rugido:
+    linha 36, coluna 1
+
+oceano:
+    linha 36, coluna 11
+
+fúria:
+    linha 36, coluna 21
+
+tempestade:
+    linha 36, coluna 30
+
+calmaria:
+    linha 36, coluna 44
+
+lago:
+    linha 36, coluna 59
+
+espelhado:
+    linha 36, coluna 64
+
+tudo:
+    linha 37, coluna 1
+    linha 50, coluna 38
+    linha 66, coluna 14
+    linha 120, coluna 7
+
+isso:
+    linha 37, coluna 6
+
+coloca:
+    linha 37, coluna 15
+
+devido:
+    linha 37, coluna 31
+
+lugar:
+    linha 37, coluna 38
+
+esquema:
+    linha 37, coluna 53
+
+das:
+    linha 37, coluna 61
+    linha 40, coluna 1
+    linha 46, coluna 8
+
+coisas:
+    linha 37, coluna 65
+    linha 115, coluna 64
+
+contemplar:
+    linha 38, coluna 1
+
+montanha:
+    linha 38, coluna 16
+
+majestosa:
+    linha 38, coluna 25
+
+lembra:
+    linha 38, coluna 39
+    linha 82, coluna 42
+
+existência:
+    linha 38, coluna 56
+    linha 64, coluna 1
+
+mero:
+    linha 38, coluna 72
+
+piscar:
+    linha 39, coluna 1
+
+comparação:
+    linha 39, coluna 20
+
+eternidade:
+    linha 39, coluna 37
+
+ciclo:
+    linha 39, coluna 60
+
+estações:
+    linha 40, coluna 5
+
+renascimento:
+    linha 40, coluna 21
+
+primavera:
+    linha 40, coluna 37
+
+exuberância:
+    linha 40, coluna 50
+
+verão:
+    linha 40, coluna 65
+
+melancolia:
+    linha 41, coluna 1
+
+outono:
+    linha 41, coluna 15
+
+sono:
+    linha 41, coluna 26
+
+profundo:
+    linha 41, coluna 31
+
+inverno:
+    linha 41, coluna 43
+
+reflete:
+    linha 41, coluna 52
+
+vida:
+    linha 42, coluna 12
+    linha 45, coluna 37
+    linha 80, coluna 18
+    linha 97, coluna 15
+    linha 106, coluna 34
+    linha 107, coluna 58
+    linha 117, coluna 25
+
+seus:
+    linha 42, coluna 22
+    linha 42, coluna 43
+
+altos:
+    linha 42, coluna 27
+
+baixos:
+    linha 42, coluna 35
+
+começos:
+    linha 42, coluna 48
+
+fins:
+    linha 42, coluna 58
+
+fonte:
+    linha 43, coluna 23
+
+inspiração:
+    linha 43, coluna 32
+
+renovação:
+    linha 43, coluna 45
+
+resiliência:
+    linha 43, coluna 58
+
+flor:
+    linha 44, coluna 1
+
+brota:
+    linha 44, coluna 10
+
+meio:
+    linha 44, coluna 19
+    linha 50, coluna 27
+    linha 68, coluna 14
+    linha 70, coluna 13
+
+asfalto:
+    linha 44, coluna 27
+
+persistência:
+    linha 44, coluna 38
+
+árvore:
+    linha 44, coluna 58
+
+cresce:
+    linha 44, coluna 69
+
+fenda:
+    linha 45, coluna 8
+
+rochosa:
+    linha 45, coluna 14
+
+lições:
+    linha 45, coluna 27
+    linha 114, coluna 47
+
+ensinam:
+    linha 45, coluna 50
+
+perseverar:
+    linha 45, coluna 60
+
+diante:
+    linha 46, coluna 1
+
+adversidades:
+    linha 46, coluna 12
+
+silêncio:
+    linha 46, coluna 28
+    linha 70, coluna 1
+
+floresta:
+    linha 46, coluna 44
+
+convida:
+    linha 46, coluna 57
+    linha 86, coluna 38
+
+à:
+    linha 46, coluna 65
+    linha 49, coluna 54
+    linha 49, coluna 71
+
+introspecção:
+    linha 47, coluna 1
+
+ouvir:
+    linha 47, coluna 17
+
+voz:
+    linha 47, coluna 25
+
+dentro:
+    linha 47, coluna 40
+    linha 120, coluna 29
+
+ignoramos:
+    linha 48, coluna 1
+
+tumulto:
+    linha 48, coluna 14
+
+dia:
+    linha 48, coluna 25
+    linha 48, coluna 31
+    linha 122, coluna 12
+
+conexão:
+    linha 48, coluna 38
+    linha 118, coluna 27
+
+na:
+    linha 48, coluna 64
+    linha 117, coluna 22
+
+verdade:
+    linha 48, coluna 67
+    linha 50, coluna 1
+    linha 91, coluna 1
+
+reconexão:
+    linha 49, coluna 5
+
+essência:
+    linha 49, coluna 33
+    linha 118, coluna 1
+
+retorno:
+    linha 49, coluna 46
+
+simplicidade:
+    linha 49, coluna 56
+
+fundamental:
+    linha 50, coluna 9
+
+disso:
+    linha 50, coluna 32
+
+tecnologia:
+    linha 50, coluna 46
+    linha 64, coluna 64
+
+avança:
+    linha 50, coluna 57
+
+passos:
+    linha 50, coluna 66
+
+largos:
+    linha 51, coluna 1
+
+redefinindo:
+    linha 51, coluna 9
+
+significa:
+    linha 51, coluna 27
+
+humano:
+    linha 51, coluna 41
+
+estamos:
+    linha 51, coluna 49
+    linha 71, coluna 53
+
+tornando:
+    linha 51, coluna 61
+
+dependentes:
+    linha 52, coluna 10
+
+máquinas:
+    linha 52, coluna 25
+
+redes:
+    linha 52, coluna 38
+    linha 57, coluna 1
+
+informações:
+    linha 52, coluna 49
+    linha 59, coluna 1
+    linha 93, coluna 1
+
+instantâneas:
+    linha 52, coluna 61
+    linha 54, coluna 20
+
+comunicação:
+    linha 53, coluna 1
+    linha 66, coluna 1
+    linha 81, coluna 1
+
+antes:
+    linha 53, coluna 14
+
+baseada:
+    linha 53, coluna 20
+
+cartas:
+    linha 53, coluna 31
+
+conversas:
+    linha 53, coluna 40
+
+longas:
+    linha 53, coluna 50
+
+agora:
+    linha 53, coluna 58
+
+resume:
+    linha 53, coluna 67
+
+mensagens:
+    linha 54, coluna 1
+
+curtas:
+    linha 54, coluna 11
+
+carentes:
+    linha 54, coluna 47
+
+profundidade:
+    linha 54, coluna 59
+    linha 70, coluna 46
+
+emoção:
+    linha 55, coluna 1
+    linha 77, coluna 46
+
+virtual:
+    linha 55, coluna 17
+
+expande:
+    linha 55, coluna 28
+
+criando:
+    linha 55, coluna 37
+
+novas:
+    linha 55, coluna 45
+    linha 55, coluna 64
+    linha 56, coluna 34
+
+realidades:
+    linha 55, coluna 51
+
+formas:
+    linha 55, coluna 70
+    linha 56, coluna 40
+    linha 73, coluna 55
+
+interação:
+    linha 56, coluna 4
+
+gerando:
+    linha 56, coluna 26
+
+solidão:
+    linha 56, coluna 50
+
+alienação:
+    linha 56, coluna 60
+
+sociais:
+    linha 57, coluna 7
+
+conectam:
+    linha 57, coluna 19
+
+pessoas:
+    linha 57, coluna 32
+    linha 113, coluna 57
+
+todos:
+    linha 57, coluna 43
+    linha 105, coluna 56
+
+cantos:
+    linha 57, coluna 52
+
+planeta:
+    linha 57, coluna 62
+
+podem:
+    linha 58, coluna 1
+
+desconectar:
+    linha 58, coluna 11
+    linha 69, coluna 32
+
+quem:
+    linha 58, coluna 26
+    linha 98, coluna 60
+
+lado:
+    linha 58, coluna 45
+
+fluxo:
+    linha 58, coluna 63
+
+incessante:
+    linha 59, coluna 16
+
+notificação:
+    linha 59, coluna 27
+
+pressão:
+    linha 59, coluna 43
+
+estarmos:
+    linha 59, coluna 56
+
+disponíveis:
+    linha 60, coluna 1
+
+criam:
+    linha 60, coluna 14
+
+estado:
+    linha 60, coluna 23
+
+ansiedade:
+    linha 60, coluna 33
+
+latente:
+    linha 60, coluna 43
+
+permeia:
+    linha 60, coluna 55
+
+---:
+    linha 62, coluna 1
+    linha 62, coluna 26
+    linha 125, coluna 1
+    linha 125, coluna 26
+    linha 136, coluna 1
+    linha 136, coluna 26
+
+página:
+    linha 62, coluna 5
+    linha 125, coluna 5
+    linha 136, coluna 5
+
+1:
+    linha 62, coluna 12
+
+-:
+    linha 62, coluna 14
+    linha 125, coluna 14
+    linha 136, coluna 14
+
+texto.txt:
+    linha 62, coluna 16
+    linha 125, coluna 16
+    linha 136, coluna 16
+
+inovação:
+    linha 64, coluna 15
+
+entanto:
+    linha 64, coluna 28
+
+força:
+    linha 64, coluna 43
+    linha 87, coluna 41
+
+imparável:
+    linha 64, coluna 49
+
+trouxe:
+    linha 65, coluna 1
+
+avanços:
+    linha 65, coluna 8
+
+mudaram:
+    linha 65, coluna 20
+
+medicina:
+    linha 65, coluna 51
+
+ciência:
+    linha 65, coluna 63
+
+revolucionado:
+    linha 66, coluna 23
+
+inimaginável:
+    linha 66, coluna 46
+
+há:
+    linha 66, coluna 59
+    linha 106, coluna 44
+
+algumas:
+    linha 66, coluna 69
+
+décadas:
+    linha 67, coluna 1
+
+desafio:
+    linha 67, coluna 12
+
+portanto:
+    linha 67, coluna 21
+    linha 131, coluna 66
+
+lutar:
+    linha 67, coluna 37
+
+contra:
+    linha 67, coluna 43
+
+avanço:
+    linha 67, coluna 52
+
+sim:
+    linha 67, coluna 64
+
+encontrar:
+    linha 68, coluna 1
+
+usá-lo:
+    linha 68, coluna 22
+
+favor:
+    linha 68, coluna 37
+
+perder:
+    linha 68, coluna 48
+
+humanidade:
+    linha 68, coluna 61
+    linha 101, coluna 1
+    linha 122, coluna 31
+
+processo:
+    linha 69, coluna 1
+
+preciso:
+    linha 69, coluna 13
+
+reconectar:
+    linha 69, coluna 49
+
+valorizar:
+    linha 69, coluna 63
+    linha 103, coluna 54
+
+barulho:
+    linha 70, coluna 21
+
+priorizar:
+    linha 70, coluna 34
+
+sobre:
+    linha 70, coluna 59
+    linha 91, coluna 34
+    linha 113, coluna 48
+
+superficialidade:
+    linha 71, coluna 1
+
+tela:
+    linha 71, coluna 34
+
+branco:
+    linha 71, coluna 42
+
+pintando:
+    linha 71, coluna 61
+
+nova:
+    linha 72, coluna 6
+    linha 72, coluna 26
+    linha 80, coluna 31
+
+invenção:
+    linha 72, coluna 11
+
+ideia:
+    linha 72, coluna 31
+
+iremos:
+    linha 72, coluna 44
+
+criar:
+    linha 72, coluna 51
+    linha 86, coluna 69
+    linha 127, coluna 1
+
+seremos:
+    linha 72, coluna 66
+
+ainda:
+    linha 73, coluna 1
+
+decidido:
+    linha 73, coluna 20
+
+arte:
+    linha 73, coluna 32
+    linha 80, coluna 51
+    linha 83, coluna 72
+    linha 86, coluna 29
+
+todas:
+    linha 73, coluna 41
+
+suas:
+    linha 73, coluna 50
+
+espelho:
+    linha 73, coluna 68
+
+humana:
+    linha 74, coluna 9
+
+pintura:
+    linha 74, coluna 19
+
+literatura:
+    linha 74, coluna 40
+
+escultura:
+    linha 74, coluna 54
+
+expressões:
+    linha 75, coluna 1
+
+nossos:
+    linha 75, coluna 15
+    linha 75, coluna 29
+    linha 102, coluna 17
+
+medos:
+    linha 75, coluna 22
+
+desejos:
+    linha 75, coluna 36
+
+alegrias:
+    linha 75, coluna 52
+
+ela:
+    linha 76, coluna 12
+    linha 84, coluna 68
+    linha 87, coluna 1
+    linha 89, coluna 58
+    linha 93, coluna 73
+    linha 96, coluna 13
+
+explorar:
+    linha 76, coluna 28
+
+interior:
+    linha 76, coluna 45
+
+profunda:
+    linha 76, coluna 63
+    linha 118, coluna 40
+
+significativa:
+    linha 77, coluna 1
+    linha 97, coluna 33
+
+quadro:
+    linha 77, coluna 19
+    linha 110, coluna 63
+
+evocar:
+    linha 77, coluna 35
+
+conseguimos:
+    linha 77, coluna 61
+
+expressar:
+    linha 78, coluna 1
+
+canção:
+    linha 78, coluna 29
+
+fazer:
+    linha 78, coluna 45
+    linha 80, coluna 1
+
+chorar:
+    linha 78, coluna 51
+
+amor:
+    linha 78, coluna 65
+    linha 116, coluna 19
+
+nunca:
+    linha 79, coluna 1
+
+tivemos:
+    linha 79, coluna 7
+
+livro:
+    linha 79, coluna 19
+
+mundos:
+    linha 79, coluna 51
+
+distantes:
+    linha 79, coluna 58
+
+enxergar:
+    linha 80, coluna 7
+
+perspectiva:
+    linha 80, coluna 36
+
+universal:
+    linha 81, coluna 13
+
+transcende:
+    linha 81, coluna 28
+
+barreiras:
+    linha 81, coluna 39
+
+língua:
+    linha 81, coluna 52
+
+cultura:
+    linha 81, coluna 60
+
+conecta:
+    linha 82, coluna 13
+
+uns:
+    linha 82, coluna 21
+
+outros:
+    linha 82, coluna 29
+    linha 117, coluna 34
+
+apesar:
+    linha 82, coluna 54
+
+diferenças:
+    linha 83, coluna 1
+
+compartilhamos:
+    linha 83, coluna 13
+    linha 116, coluna 28
+
+mesmas:
+    linha 83, coluna 31
+
+emoções:
+    linha 83, coluna 38
+
+aspirações:
+    linha 83, coluna 48
+
+capacidade:
+    linha 84, coluna 15
+    linha 101, coluna 31
+    linha 123, coluna 51
+    linha 127, coluna 51
+
+provocar:
+    linha 84, coluna 29
+
+questionar:
+    linha 84, coluna 42
+    linha 90, coluna 24
+
+inspirar:
+    linha 84, coluna 58
+
+precisa:
+    linha 85, coluna 1
+
+resposta:
+    linha 85, coluna 17
+    linha 106, coluna 51
+
+pronta:
+    linha 85, coluna 26
+
+maior:
+    linha 85, coluna 55
+    linha 104, coluna 54
+    linha 119, coluna 35
+    linha 123, coluna 7
+    linha 123, coluna 33
+
+virtude:
+    linha 85, coluna 61
+
+justamente:
+    linha 86, coluna 1
+
+ambiguidade:
+    linha 86, coluna 14
+
+pensar:
+    linha 86, coluna 48
+    linha 90, coluna 1
+
+sentir:
+    linha 86, coluna 58
+
+ensina:
+    linha 87, coluna 9
+    linha 94, coluna 5
+
+criatividade:
+    linha 87, coluna 22
+
+poderosa:
+    linha 87, coluna 47
+
+capaz:
+    linha 87, coluna 57
+
+transformar:
+    linha 88, coluna 1
+
+redor:
+    linha 88, coluna 30
+    linha 100, coluna 56
+
+educação:
+    linha 88, coluna 39
+    linha 92, coluna 26
+    linha 95, coluna 48
+    linha 97, coluna 54
+
+chave:
+    linha 88, coluna 66
+
+abre:
+    linha 89, coluna 1
+
+portas:
+    linha 89, coluna 9
+
+conhecimento:
+    linha 89, coluna 19
+    linha 95, coluna 22
+
+crescimento:
+    linha 89, coluna 37
+
+pessoal:
+    linha 89, coluna 49
+
+capacita:
+    linha 89, coluna 66
+
+criticamente:
+    linha 90, coluna 8
+
+apresentado:
+    linha 90, coluna 47
+
+buscar:
+    linha 90, coluna 63
+
+base:
+    linha 91, coluna 29
+
+qual:
+    linha 91, coluna 42
+    linha 99, coluna 1
+
+construímos:
+    linha 91, coluna 47
+
+sociedade:
+    linha 92, coluna 11
+
+qualidade:
+    linha 92, coluna 38
+
+limita:
+    linha 92, coluna 55
+
+transmitir:
+    linha 92, coluna 64
+
+despertar:
+    linha 93, coluna 20
+
+curiosidade:
+    linha 93, coluna 32
+
+paixão:
+    linha 93, coluna 48
+
+pelo:
+    linha 93, coluna 55
+
+aprendizado:
+    linha 93, coluna 60
+
+habilidade:
+    linha 94, coluna 39
+
+essencial:
+    linha 94, coluna 50
+    linha 109, coluna 59
+
+mudança:
+    linha 95, coluna 11
+
+poder:
+    linha 95, coluna 37
+
+caminho:
+    linha 95, coluna 61
+    linha 113, coluna 21
+    linha 115, coluna 10
+
+adquiri-lo:
+    linha 96, coluna 1
+
+liberta:
+    linha 96, coluna 21
+
+ignorância:
+    linha 96, coluna 32
+
+dá:
+    linha 96, coluna 49
+
+ferramentas:
+    linha 96, coluna 55
+    linha 121, coluna 28
+
+construir:
+    linha 97, coluna 1
+    linha 121, coluna 57
+
+plena:
+    linha 97, coluna 25
+
+deve:
+    linha 97, coluna 70
+
+autodescoberta:
+    linha 98, coluna 20
+
+ajudando:
+    linha 98, coluna 40
+
+somos:
+    linha 98, coluna 65
+
+propósito:
+    linha 99, coluna 16
+    linha 104, coluna 44
+    linha 111, coluna 42
+
+verdadeira:
+    linha 99, coluna 29
+
+sabedoria:
+    linha 99, coluna 40
+    linha 103, coluna 41
+
+saber:
+    linha 99, coluna 69
+
+muito:
+    linha 100, coluna 1
+
+dependerá:
+    linha 101, coluna 12
+
+inovar:
+    linha 101, coluna 45
+
+cooperar:
+    linha 101, coluna 56
+
+erros:
+    linha 102, coluna 24
+
+complexidade:
+    linha 102, coluna 33
+    linha 122, coluna 57
+
+moderno:
+    linha 102, coluna 55
+
+soluções:
+    linha 103, coluna 1
+
+inovadoras:
+    linha 103, coluna 10
+
+verdadeiramente:
+    linha 104, coluna 1
+
+significado:
+    linha 105, coluna 1
+    linha 117, coluna 54
+
+vá:
+    linha 105, coluna 17
+
+além:
+    linha 105, coluna 20
+
+material:
+    linha 105, coluna 28
+
+empreendemos:
+    linha 106, coluna 1
+    linha 130, coluna 15
+
+algum:
+    linha 106, coluna 17
+
+momento:
+    linha 106, coluna 23
+
+única:
+    linha 106, coluna 60
+
+si:
+    linha 107, coluna 10
+
+move:
+    linha 107, coluna 25
+
+motiva:
+    linha 107, coluna 36
+
+continuar:
+    linha 107, coluna 45
+
+tapeçaria:
+    linha 108, coluna 1
+
+complexa:
+    linha 108, coluna 11
+
+tecida:
+    linha 108, coluna 21
+
+fios:
+    linha 108, coluna 32
+
+alegria:
+    linha 108, coluna 40
+
+tristeza:
+    linha 108, coluna 49
+
+sucesso:
+    linha 108, coluna 59
+
+fracasso:
+    linha 109, coluna 1
+
+fio:
+    linha 109, coluna 16
+
+insignificante:
+    linha 109, coluna 30
+
+pareça:
+    linha 109, coluna 49
+
+desenho:
+    linha 110, coluna 1
+
+mesmo:
+    linha 110, coluna 18
+
+consigamos:
+    linha 110, coluna 32
+
+ver:
+    linha 110, coluna 43
+
+totalidade:
+    linha 110, coluna 49
+
+podemos:
+    linha 111, coluna 1
+
+confiar:
+    linha 111, coluna 9
+
+parte:
+    linha 111, coluna 26
+
+seu:
+    linha 111, coluna 38
+
+incerteza:
+    linha 112, coluna 1
+
+abraçar:
+    linha 112, coluna 13
+
+sabendo:
+    linha 112, coluna 32
+
+destino:
+    linha 112, coluna 46
+
+menos:
+    linha 112, coluna 62
+
+percorremos:
+    linha 113, coluna 33
+
+encontramos:
+    linha 114, coluna 1
+
+experiências:
+    linha 114, coluna 17
+
+vivemos:
+    linha 114, coluna 34
+
+aprendemos:
+    linha 114, coluna 58
+
+longo:
+    linha 115, coluna 1
+
+realmente:
+    linha 115, coluna 35
+
+importa:
+    linha 115, coluna 45
+
+acumulamos:
+    linha 116, coluna 1
+
+criamos:
+    linha 116, coluna 60
+    linha 129, coluna 32
+
+impacto:
+    linha 117, coluna 1
+
+causamos:
+    linha 117, coluna 13
+
+dos:
+    linha 117, coluna 30
+
+aqueles:
+    linha 118, coluna 67
+
+habitam:
+    linha 119, coluna 7
+
+nessa:
+    linha 119, coluna 18
+
+recompensa:
+    linha 119, coluna 41
+
+descoberta:
+    linha 119, coluna 56
+
+temos:
+    linha 120, coluna 1
+
+precisamos:
+    linha 120, coluna 18
+
+bondade:
+    linha 120, coluna 53
+
+compaixão:
+    linha 120, coluna 64
+    linha 133, coluna 18
+
+empatia:
+    linha 121, coluna 1
+
+coragem:
+    linha 121, coluna 13
+
+permitem:
+    linha 121, coluna 48
+
+melhor:
+    linha 122, coluna 1
+
+toda:
+    linha 122, coluna 46
+
+esperança:
+    linha 123, coluna 13
+    linha 132, coluna 25
+
+fraqueza:
+    linha 123, coluna 39
+
+amar:
+    linha 123, coluna 65
+
+2:
+    linha 125, coluna 12
+
+sonhar:
+    linha 127, coluna 12
+
+únicos:
+    linha 127, coluna 37
+
+odiar:
+    linha 127, coluna 65
+
+destruir:
+    linha 128, coluna 1
+
+ignorar:
+    linha 128, coluna 12
+
+ameaça:
+    linha 128, coluna 40
+
+algo:
+    linha 128, coluna 63
+    linha 129, coluna 23
+
+acontece:
+    linha 129, coluna 1
+
+conosco:
+    linha 129, coluna 10
+
+decisão:
+    linha 129, coluna 49
+
+tomamos:
+    linha 129, coluna 61
+
+ação:
+    linha 130, coluna 6
+
+escolha:
+    linha 130, coluna 31
+
+legado:
+    linha 130, coluna 52
+
+deixaremos:
+    linha 130, coluna 63
+
+futuras:
+    linha 131, coluna 9
+
+gerações:
+    linha 131, coluna 17
+
+reflexo:
+    linha 131, coluna 30
+
+escolhas:
+    linha 131, coluna 48
+
+hoje:
+    linha 131, coluna 60
+
+possamos:
+    linha 132, coluna 5
+
+escolher:
+    linha 132, coluna 14
+
+desespero:
+    linha 132, coluna 45
+
+cooperação:
+    linha 132, coluna 58
+
+conflito:
+    linha 133, coluna 4
+
+indiferença:
+    linha 133, coluna 38
+
+mãos:
+    linha 134, coluna 16
+
+3:
+    linha 136, coluna 12
+
