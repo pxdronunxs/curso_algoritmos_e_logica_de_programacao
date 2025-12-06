@@ -112,4 +112,7 @@ import math
 
 #-------------------------------------#
 
-[x for x in range(2, 100) if all(x % i != 0 for i in range(2, x))]
+# [x for x in range(2, 100) if all(x % i != 0 for i in range(2, x))]
+
+for i in "Hi":
+    print(i)
